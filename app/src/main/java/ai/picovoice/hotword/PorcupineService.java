@@ -74,7 +74,7 @@ public class PorcupineService extends Service {
                     (keywordIndex) -> {
                         numKeywordsDetected++;
 
-                        CharSequence title = "Porcupine";
+                        CharSequence title = "Jolka";
                         PendingIntent contentIntent = PendingIntent.getActivity(
                                 this,
                                 0,
