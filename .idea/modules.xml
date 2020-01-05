@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIS-hotword.iml" filepath="$PROJECT_DIR$/AIS-hotword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/porcupine/porcupine.iml" filepath="$PROJECT_DIR$/porcupine/porcupine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/porcupinemanager/porcupinemanager.iml" filepath="$PROJECT_DIR$/porcupinemanager/porcupinemanager.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+include ':app', ':porcupinemanager', ':porcupine'
+project(':porcupine').projectDir = new File('porcupine')
